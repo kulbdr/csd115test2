@@ -43,38 +43,6 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
         color: lightcyan;
     }
 
-    .Services{
-        text-align: center;
-        color:  rgb(0, 139, 7);
-    }
-
-    .form{
-        margin-left: 200px;
-        height: 200px;
-        text-align: center;
-    } 
-
-   .who{
-    color:  rgb(0, 139, 7);
-   }
-
-   .work{
-    color:  rgb(0, 139, 7);
-   }
-
-   .contact{
-    color: rgb(0, 139, 7);
-   }
-
-   .Contact{
-    background-color:  rgb(0, 139, 7);
-    color: rgb(255, 255, 255);
-    border-color:  rgb(0, 139, 7);
-   }
-
-   .Contact:hover{
-    background-color: lightgreen;
-}
     .button{
         background-color:  rgb(0, 139, 7);
         color: rgb(255, 255, 255);
@@ -83,6 +51,10 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
 
     .button:hover{
         background-color: lightgreen;  
+    }
+
+    .map{
+        margin-left: 330px;
     }
 
 

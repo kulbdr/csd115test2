@@ -4,8 +4,9 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
     
     body{
         
-        background-color: orange;
+        background-color: rgb(236, 173, 54);
         min-height: 570px;
+        
     
     }
     .mynav{
@@ -21,16 +22,68 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
         padding-right: 30px!important;
     }
 
-    .computer{
-        height: 400px;
-    }
-
-    .web{
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        color: aquamarine;
+    .main{
+        padding: 40px;
     }
 
     .col-md-6{
        text-align: center; 
     }
 
+    .computer{
+        height: 600px;
+    }
+
+    .my{
+        height: 500px;
+    }
+
+    .web{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: lightcyan;
+    }
+
+    .Services{
+        text-align: center;
+        color:  rgb(0, 139, 7);
+    }
+
+    .form{
+        margin-left: 200px;
+        height: 200px;
+        text-align: center;
+    } 
+
+   .who{
+    color:  rgb(0, 139, 7);
+   }
+
+   .work{
+    color:  rgb(0, 139, 7);
+   }
+
+   .contact{
+    color: rgb(0, 139, 7);
+   }
+
+   .Contact{
+    background-color:  rgb(0, 139, 7);
+    color: rgb(255, 255, 255);
+    border-color:  rgb(0, 139, 7);
+   }
+
+   .Contact:hover{
+    background-color: lightgreen;
+}
+    .button{
+        background-color:  rgb(0, 139, 7);
+        color: rgb(255, 255, 255);
+        border-color:  rgb(0, 139, 7); 
+    }
+
+    .button:hover{
+        background-color: lightgreen;  
+    }
+
+
+   
